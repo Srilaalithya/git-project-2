@@ -1,2 +1,3 @@
 "Created new repo for collab" 
 "to create new repo use git init ,use echo to add data to file,then git add ,followed by commit and use git push origin main to add local git file to github"
+i am making this changes
